@@ -1,5 +1,5 @@
 ## About Me:
-<p> I am an Engineer and Neuroscientist.  </p>
+<p> I am an Engineer and a Neuroscientist.  </p>
 
 ## Education:
 <p>I am working as a Postdoctoral Research Researcher in Laboratory of Neural Circuit Assembly <a href="https://www.hifo.uzh.ch/en/research/karayannis.html" style="color:#253494">Karayannis Lab</a>, <a href="https://www.uzh.ch/en.html" style="color:#253494">Brain Research Institute</a>, University of Zurich <a href="https://www.uzh.ch/en.html"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Universität_Zürich_logo.svg" width="48.75" height="15" /></a>.</p>
