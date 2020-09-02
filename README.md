@@ -21,7 +21,14 @@
 - Embodied Cognition
 
 ## Publications (recent):
-<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a></p>
+
+<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, <b>Ali Ozgur Argunsah*</b>, Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a></p>
+*Equal Contribution.
+
+<p>Tevye J. Stachniak*, Rahel Kastli*, Olivia Hanley, <b>Ali Ozgur Argunsah*</b> and Theofanis Karayannis. "Post-mitotic Prox1 expression controls the final specification of cortical VIP interneuron subtypes." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/biorxiv/early/2020/07/23/2020.07.22.216135.full.pdf" style="color:#253494">[pdf]</a></p>
+*Equal Contribution.
+
+
 
 <!-- <p>Prior to this, I briefly worked as a Postdoctoral Researcher at <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" /> </a> after finishing my PhD in <b>Computational Neuroscience</b> on the topic: '<b>Exploring brain-wide development through deep learning</b>' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), UZH|ETH Zürich. My PhD thesis was advised by <a href="https://znznews.ch/understanding-the-developing-brain/" style="color:#253494">Prof. Theofanis Karayannis</a> along with <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> and <a href="https://neurotechnology.ethz.ch/people/person-detail.MjAzNTMz.TGlzdC8xODM1LDE3MjQ1MzA2Ng==.html" style="color:#253494">Prof. Mehmet Fatih Yanik</a> as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
 
