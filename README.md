@@ -1,6 +1,6 @@
 ## About Me:
 <p> I am an Engineer and a Neuroscientist.  </p>
-<p>I am working as a Postdoctoral Research Researcher in <a href="https://www.hifo.uzh.ch/en/research/karayannis.html" style="color:#253494">Laboratory of Neural Circuit Assembly </a>, <a href="https://www.hifo.uzh.ch" style="color:#253494">Brain Research Institute</a>, University of Zurich <a href="https://www.uzh.ch/en.html"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Universität_Zürich_logo.svg" width="48.75" height="25" /></a>.</p>
+<p>I am working as a Postdoctoral Research Researcher in <a href="https://www.hifo.uzh.ch/en/research/karayannis.html" style="color:#253494">Laboratory of Neural Circuit Assembly </a>, <a href="https://www.hifo.uzh.ch" style="color:#253494">Brain Research Institute</a>, University of Zurich.</p>
 
 ## Education:
 <p> Ph.D. in Neuroscience, <a href="http://neuro.fchampalimaud.org" style="color:#253494">Champalimaud Neuroscience Programme </a>, Lisbon, Portugal. </p>
