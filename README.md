@@ -3,7 +3,7 @@
 <p>I am working as a Postdoctoral Research Researcher in Laboratory of Neural Circuit Assembly <a href="https://www.hifo.uzh.ch/en/research/karayannis.html" style="color:#253494">Karayannis Lab</a>, <a href="https://www.uzh.ch/en.html" style="color:#253494">Brain Research Institute</a>, University of Zurich <a href="https://www.uzh.ch/en.html"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Universität_Zürich_logo.svg" width="48.75" height="15" /></a>.</p>
 
 ## Education:
-<p> Ph.D. in Neuroscience, Champalimaud Neuroscience Programme <a href="http://neuro.fchampalimaud.org" style="color:#253494"></a>, Lisbon, Portugal. </p>
+<p> Ph.D. in Neuroscience, <a href="http://neuro.fchampalimaud.org" style="color:#253494">Champalimaud Neuroscience Programme </a>, Lisbon, Portugal. </p>
 <p> M.S. in Electronics Engineering and Computer Science, <a href="http://labs.sabanciuniv.edu/spis/" style="color:#253494">Signal Processing and Information Systems Laboratory</a>, Sabanci University, Istanbul, Turkey. </p>
 <p> B.S. in Biomedical Engineering, Baskent University, Ankara, Turkey.</p>
 
