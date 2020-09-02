@@ -11,6 +11,9 @@
 <p> I spent the summer of 2012 in Thomas J. McHugh's <a href="http://cbp.brain.riken.jp" style="color:#253494">Laboratory for Circuit and Behavioral Physiology</a> as a visiting scientist in RIKEN Brain Science Institute, Wako, Saitama, Japan.
 </p>
 
+<p> Between 2007 and 2008, I worked as a visiting researcher in Emery N. Brown's <a href="http://www.neurostat.mit.edu/lab-members" style="color:#253494">Neuroscience Statistics Research Laboratory</a> in Massachusetts General Hospital, Charlestown, MA, USA.
+</p>
+
 <p> I attended <a href="http://sisne.org/lascon-viii/?lang=en" style="color:#253494">Latin American School on Computational Neuroscience (LASCON)</a> between June and July 2008 in Ribeirao Preto, Sao Paolo, Brazil.
 </p>
 
@@ -25,7 +28,7 @@
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, <b>Ali Ozgur Argunsah*</b>, Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a></p>
 *Equal Contribution.
 
-<p>Tevye J. Stachniak*, Rahel Kastli*, Olivia Hanley, <b>Ali Ozgur Argunsah*</b> and Theofanis Karayannis. "Post-mitotic Prox1 expression controls the final specification of cortical VIP interneuron subtypes." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/biorxiv/early/2020/07/23/2020.07.22.216135.full.pdf" style="color:#253494">[pdf]</a></p>
+<p>Tevye J. Stachniak*, Rahel Kastli*, Olivia Hanley, <b>Ali Ozgur Argunsah</b> and Theofanis Karayannis. "Post-mitotic Prox1 expression controls the final specification of cortical VIP interneuron subtypes." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/biorxiv/early/2020/07/23/2020.07.22.216135.full.pdf" style="color:#253494">[pdf]</a></p>
 *Equal Contribution.
 
 
