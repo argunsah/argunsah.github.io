@@ -4,7 +4,7 @@
 
 ## Education:
 <p> Ph.D. in Neuroscience, Champalimaud Neuroscience Programme <a href="http://neuro.fchampalimaud.org" style="color:#253494"></a>, Lisbon, Portugal. </p>
-<p> M.S. in Electronics Engineering and Computer Science, Signal Processing and Information Systems Laboratory <a href="http://labs.sabanciuniv.edu/spis/" style="color:#253494"></a>, Sabanci University, Istanbul, Turkey. </p>
+<p> M.S. in Electronics Engineering and Computer Science, <a href="http://labs.sabanciuniv.edu/spis/" style="color:#253494">Signal Processing and Information Systems Laboratory</a>, Sabanci University, Istanbul, Turkey. </p>
 <p> B.S. in Biomedical Engineering, Baskent University, Ankara, Turkey.</p>
 
 
