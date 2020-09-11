@@ -1,9 +1,9 @@
 ## Home:
 <p> Recent findings on the structural dynamics and functional plasticity of dendritic spines (small protrusions from a neuron’s dendrite) in pyramidal neurons have shown that density and morphology of spines are correlated with memory and learning. Thus, understanding how activity correlates with structural changes of spines may provide an important link to elucidating how information is stored in the brain, and may contribute to our understanding of several neurodevelopmental disorders, such as Fragile-X and neurodegenerative diseases, which involve abnormalities in both spine structure and function. Recent advances in the field of neuron imaging together with the increased number of studies focused on neuronal structure leads to the collection of vast amount of data to be analyzed, which is conventionally realized manually by neuroscientists. However, such manual analysis is time-consuming and prone to human error. As a result, developing image analysis tools for fast, robust, and accurate analysis of structural, spatial, and temporal changes in dendritic spines has recently emerged as a challenging research topic. Tools for processing spine images have mostly been developed for conventional confocal microscopy images of static tissue samples. Yet, the need for processing two-photon microscopy data, which can enable studies on dynamic plasticity, is rising. While two-photon microscopes provide dynamic data, the quality of the acquired images is very low. Accordingly, our research has focused on developing new probabilistic and machine-learning based image processing algorithms for the analysis of learning-related changes in dendritic spines from time-series two-photon microscopy data, which is supported by the Scientific and Technological Research Council of Turkey (grant no: 113E603). </p>
 ## People:
-<img src="/img/ali.jpg" alt="Ali Özgür Argunsah" width="500" height="600">
+<p> <img src="/img/ali.jpg" alt="Ali Özgür Argunsah" width="162" height="195"> Ali Özgür Argunsah </p>
+<p> <img src="/img/ertunc.jpg" alt="Ertunc Erdil" width="162" height="195"> Ertunc Erdil </p>
 
-<p> Ertunc Erdil</p>
 <p> Muhammad Usman Ghani</p>
 <p> Anna Felicity Hobbiss</p>
 <p> Yazmin Ramiro Cortes</p>
