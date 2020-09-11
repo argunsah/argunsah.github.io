@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: <p style="text-align:center;color:black;" class="view">SpineS<br></p>
-logo: img/spines.png
+logo: SpineS/img/spines.png
 description: <p style="text-align:center;color:black;" class="view">Dendritic Spine Analysis<br></p>
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
