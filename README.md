@@ -28,7 +28,7 @@
 *Equal Contribution.
 
 
-<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, <b>Ali Özgür Argunsah*</b>, Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a></p>
+<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, <b>Ali Özgür Argunsah*</b>, Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a> (Accepted to Nature Communications, 2020.) </p>
 *Equal Contribution.
 
 <p>Tevye J. Stachniak*, Rahel Kastli*, Olivia Hanley, <b>Ali Özgür Argunsah</b> and Theofanis Karayannis. "Post-mitotic Prox1 expression controls the final specification of cortical VIP interneuron subtypes.." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/biorxiv/early/2020/07/23/2020.07.22.216135.full.pdf" style="color:#253494">[pdf]</a></p>
