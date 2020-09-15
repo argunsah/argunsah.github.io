@@ -24,6 +24,9 @@
 - Embodied Cognition
 
 ## Selected Publications:
+<p> <b>Ali Özgür Argunsah*</b>, Ertunc Erdil*, Muhammad Usman Ghani, Yazmín Ramiro-Cortés, Anna Felicity Hobbiss, Theofanis Karayannis, Mujdat Cetin, Inbal Israely and Devrim Unay, "SpineS: An interactive time-series analysis software for dendritic spines." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.09.12.294546v2.full.pdf" style="color:#253494">[pdf]</a></p>
+*Equal Contribution.
+
 
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, <b>Ali Özgür Argunsah*</b>, Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a></p>
 *Equal Contribution.
