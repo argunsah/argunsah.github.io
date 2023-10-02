@@ -24,9 +24,16 @@
 - Embodied Cognition
 
 ## Selected Publications:
-<p> <b>Ali Özgür Argunsah*</b>, Ertunc Erdil*, Muhammad Usman Ghani, Yazmín Ramiro-Cortés, Anna Felicity Hobbiss, Theofanis Karayannis, Mujdat Cetin, Inbal Israely and Devrim Unay, "SpineS: An interactive time-series analysis software for dendritic spines." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.09.12.294546v2.full.pdf" style="color:#253494">[pdf]</a></p>
-*Equal Contribution.
 
+<p><b>Ali Özgür Argunsah</b> and Inbal Israely. "The temporal pattern of synaptic activation
+determines the longevity of structural plasticity at dendritic spines </i></b>, iScience</i></b> (2023).<a href="https://www.cell.com/iscience/pdf/S2589-0042(23)00912-4.pdf" style="color:#253494">[link]</a></p>
+
+<p><b>Ali Özgür Argunsah</b> and Inbal Israely. "Homosynaptic plasticity induction causes heterosynaptic changes at the unstimulated neighbors in an induction pattern and location-specific manner" </i></b>,Frontiers in Cellular Neuroscience</i></b>(2023).<a href="https://www.frontiersin.org/articles/10.3389/fncel.2023.1253446/full" style="color:#253494">[link]</a></p>
+
+<p>Tevye J. Stachniak, <b>Ali Özgür Argunsah</b>, Jenq-Wei Yang, Linbi Cai  and Theofanis Karayannis. "Presynaptic kainate receptors onto somatostatin interneurons are recruited by activity throughout development and contribute to cortical sensory adaptation" <b><i>, Journal of Neuroscience</i></b> (2023).<a href="https://www.jneurosci.org/content/early/2023/09/13/JNEUROSCI.1461-22.2023.abstract" style="color:#253494">[link]</a></p>
+
+<p> <b>Ali Özgür Argunsah*</b>, Ertunc Erdil*, Muhammad Usman Ghani, Yazmín Ramiro-Cortés, Anna Felicity Hobbiss, Theofanis Karayannis, Mujdat Cetin, Inbal Israely and Devrim Unay, "An interactive time series image analysis software for dendritic spines." <b><i>, Scientific Reports</i></b> (2020).<a href="https://www.nature.com/articles/s41598-022-16137-y" style="color:#253494">[link]</a></p>
+*Equal Contribution.
 
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, <b>Ali Özgür Argunsah*</b>, Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a> (Accepted to Nature Communications, 2020.) </p>
 *Equal Contribution.
