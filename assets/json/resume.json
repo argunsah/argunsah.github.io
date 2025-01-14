@@ -37,12 +37,12 @@
     {
       "institution": "Champalimaud Neuroscience Programme",
       "location": "Lisbon, Portugal",
-      "url": "https://www.fchampalimaud.org/champalimaud-research/about-cr",
+      "url": "https://www.fchampalimaud.org/",
       "area": "Synaptic plasticity",
       "studyType": "PhD",
       "startDate": "2009-09-01",
       "endDate": "2016-08-30",
-      "courses": ["Biology-Neuroscience"]
+      "courses": ["Biology, Neuroscience"]
     }
   ],
   "awards": [
