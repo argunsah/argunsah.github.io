@@ -409,8 +409,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-i-started-my-postoc-in-neuronal-circuit-assembly-lab-of-theofanis-karayannis-at-uzh",
+          title: 'I started my postoc in Neuronal Circuit Assembly lab of Theofanis Karayannis at...',
           description: "",
           section: "News",},{id: "news-i-won-the-best-presentation-award-in-turkish-neuroscience-meeting",
           title: 'I won the best presentation award in Turkish Neuroscience Meeting.',
