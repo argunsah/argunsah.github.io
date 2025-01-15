@@ -28,7 +28,7 @@
       "position": "Senior Research Scientist",
       "url": "https://hifo.uzh.ch",
       "startDate": "2016-09-01",
-      "endDate": "2025-01-14",
+      "endDate": "",
       "summary": "Developmental systems neuroscience research",
       "highlights": ["Development of Inhibition"]
     }
@@ -47,92 +47,72 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Preesntation",
+      "date": "2023-06-12",
+      "awarder": "Turkish Society of Neuroscience",
+      "url": "http://www.tubas.org.tr/english",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "LTK-2: Education for Persons Responsible for Directing Animal Experiments (study directors)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "issuer": "UZH",
+      "url": "https://vsfltkreg.uzh.ch/course/m-2/en",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "LTK-1: FELASA category B",
+      "date": "2016-10-01",
+      "issuer": "UZH",
+      "url": "https://vsfltkreg.uzh.ch/course/m-1/en",
       "icon": "fa-solid fa-tag"
     },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A nasal chemosensation–dependent critical window for somatosensory development",
+      "publisher": "Science",
+      "releaseDate": "2024-5-10",
+      "url": "https://doi.org/10.1126/science.adn5611",
+      "summary": "The mechanisms mediating the development and integration of the sensory systems have not been fully elucidated. Cai et al. studied the development of olfaction, which is considered the earliest sense to appear in mice, in relation to somatosensation, which appears shortly after. The authors showed that during an early postnatal period, before the development of other senses, olfactory stimuli induced excitation propagating over a large cortical area, including the somatosensory cortex (S1). This olfactory-mediated excitation strengthened whisker-evoked activity in S1 in neonates and was lost later in postnatal development. Olfactory deprivation during early development impaired somatosensation later in life, suggesting the existence of a developmental window in which olfaction affects the development of somatosensory processing."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "The temporal pattern of synaptic activation determines the longevity of structural plasticity at dendritic spines",
+      "publisher": "iScience",
+      "releaseDate": "2023-06-16",
+      "url": "https://doi.org/10.1016/j.isci.2023.106835",
+      "summary": "Here, we investigate how the temporal organization of synaptic activity influences the persistence of structural changes at dendritic spines. Using advanced two-photon imaging and glutamate uncaging, we applied naturalistic activation patterns derived from a Poisson distribution to individual dendritic spines and observed their structural dynamics. Our findings reveal that naturalistic activation patterns induce structural plasticity that is dependent on NMDA receptor activation and protein synthesis. Importantly, the temporal structure of the activation patterns significantly impacts the longevity of the induced plasticity. We observed rapid structural growth in spines during naturalistic activity, which reliably predicted the long-term persistence of these changes—an effect absent with regularly spaced synaptic activity. Through these observations, we highlight the critical role of temporal patterns in synaptic activation, offering new insights into how dynamic neuronal activity influences the stability and adaptability of synaptic structures. Our work underscores the importance of considering temporal dynamics in studies of synaptic plasticity and has implications for understanding learning and memory processes at the molecular and structural levels."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Developmental divergence of sensory stimulus representation in cortical interneurons",
+      "publisher": "Nature Communications",
+      "releaseDate": "2020-11-12",
+      "url": "https://doi.org/10.1038/s41467-020-19427-z",
+      "summary": "In this study, we explore how sensory representations evolve in VIP⁺ and SST⁺ cortical interneurons during early development. Around postnatal day 14, coinciding with the onset of active sensation, we observe a key divergence: VIP⁺ neurons lose their multi-whisker stimulus preference, while SST⁺ neurons enhance theirs. This shift is driven by structural and functional changes in synaptic inputs, including increased cross-barrel inputs to SST⁺ neurons and alterations in thalamic connections for both interneuron types. Our findings reveal distinct developmental pathways shaping sensory processing, providing insight into the maturation of cortical circuits and sensory perception."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Data Analysis",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Signal Processing",
+        "Image Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Matlab",
+        "Python",
+        "Borland C",
+        "Basic 1.1"
       ]
     }
   ],
@@ -146,6 +126,16 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "B1",
+      "icon": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "A2",
+      "icon": ""
     }
   ],
   "interests": [
@@ -153,35 +143,22 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "String theory",
+        "Quantum gravity",
+        "Inverse square law interpretations"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Müjdat Çetin",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": "Inbal Israely",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "reference": ""
     }
   ]
 }
