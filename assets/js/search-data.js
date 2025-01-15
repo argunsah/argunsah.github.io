@@ -79,18 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "news-i-started-my-postoc-in-neuronal-circuit-assembly-lab-of-theofanis-karayannis-at-uzh",
+            },{id: "news-i-started-my-postoc-in-neuronal-circuit-assembly-lab-of-theofanis-karayannis-at-uzh",
           title: 'I started my postoc in Neuronal Circuit Assembly lab of Theofanis Karayannis at...',
           description: "",
           section: "News",},{id: "news-i-won-the-best-presentation-award-in-turkish-neuroscience-meeting",
