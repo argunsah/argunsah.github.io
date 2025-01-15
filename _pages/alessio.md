@@ -1,5 +1,9 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Alessio Attardo is a neurobiologist specializing in the cellular mechanisms underlying learning and memory. He earned his undergraduate degree in Biology from the University of Palermo, Italy, and completed his Ph.D. at the Max Planck Institute of Molecular Cell Biology and Genetics in Dresden, Germany, focusing on cortical development. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Following his doctoral studies, Dr. Attardo conducted postdoctoral research at Stanford University, where he developed chronic deep-brain optical imaging techniques to study long-term plasticity of pyramidal neurons in the hippocampus of live mice. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2015, he established his own research group at the Max Planck Institute for Psychiatry in Munich, Germany, concentrating on structural plasticity in hippocampal neurons as the cellular foundation of memory and the effects of stress on neuronal representations. 
+
+Since January 2022, Dr. Attardo has been leading the "Hippocampal Plasticity and Episodic Memory" group within the Department of Cellular Neuroscience at the Leibniz Institute for Neurobiology in Magdeburg, Germany. 
+
+His research employs advanced imaging techniques to investigate how networks of neurons in the brain acquire and recall memories, aiming to elucidate the cellular events in the hippocampus underlying learning and recall.  
