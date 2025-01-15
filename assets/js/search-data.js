@@ -376,6 +376,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/math/";
         
       },
+    },{id: "post-a-post-with-code",
+      
+        title: "a post with code",
+      
+      description: "an example of a blog post with some code",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/code/";
+        
+      },
     },{id: "news-i-started-my-postoc-in-neuronal-circuit-assembly-lab-of-theofanis-karayannis-at-uzh",
           title: 'I started my postoc in Neuronal Circuit Assembly lab of Theofanis Karayannis at...',
           description: "",
