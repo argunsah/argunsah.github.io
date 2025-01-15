@@ -409,12 +409,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-i-won-the-best-presentation-award-in-turkish-neuroscience-meeting",
+          title: 'I won the best presentation award in Turkish Neuroscience Meeting.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-together-with-ertunç-erdil-and-devrim-ünay-we-just-finished-writing-a-book-chapter-called-applications-of-computer-vision-and-machine-learning-in-bioimaging-that-will-appear-in-the-book-called-bioimaging-modalities-in-bioengineering",
