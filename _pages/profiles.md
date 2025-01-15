@@ -6,8 +6,6 @@ description: members of the lab or group
 nav: true
 nav_order: 7
 
-Mentors
-
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
@@ -39,12 +37,6 @@ profiles:
     more_info: >
       <p>Sabancı University</p>
       <p>M.S. Supervisor</p>
-
-Collaborators
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: devrim.jpg
     content: devrim.md
@@ -69,7 +61,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>UZH</p>
-
-
-
 ---
