@@ -398,17 +398,6 @@ ninja.data = [{
           window.location.href = "/blog/2015/images/";
         
       },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
-        
-      },
     },{id: "news-i-started-my-postoc-in-neuronal-circuit-assembly-lab-of-theofanis-karayannis-at-uzh",
           title: 'I started my postoc in Neuronal Circuit Assembly lab of Theofanis Karayannis at...',
           description: "",
