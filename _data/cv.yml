@@ -2,96 +2,74 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ali Özgür Argunşah
     - name: Date of Birth
-      value: 14th March 1879
+      value: 29th January 1981
     - name: Languages
-      value: English, German
+      value: Turkish, English, Portuguese, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Champalimaud Neuroscience Programme, Lisbon, Portugal
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Biology/Neuroscience
+        - Studied synaptic plasticity using naturalistic patterns of activity.
+        - Developed signal and image processing pipelines to study single dendritic spine structural plasticity.
+    - title: MS
+      institution: Sabancı University, İstanbul, Türkiye
+      year: 2010
       description:
-        - Description 1.
-        - Description 2.
+        - EECS
+        - Developed signal processing and machine learning algorithms for EEG based brain computer interfaces.
+        - Participated in Drive Safe project for physiological signal acquisition and processing.
+    - title: BS
+      institution: Başkent University, Ankara, Türkiye
+      year: 2004
+      description:
+        - Biomedical Engineering
+        - I designed the first two-channel mobile EEG data acquisition system as my graduation project.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Brain Research Instıtute, University of Zurich
+      year: 2016 - Ongoing
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Deputy director of animal experimentation 
+        - title: Signal processing
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Spike-sorting
+            - Photostimulation locked uncaging-ephys analysis
+        - title: Image processing
+          contents:
+            - Synaptic puncta detection and colocalization 
+            - Detection and segmentation of different cellular structures in confocal images
     - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      institution: Kadir Has University, İstanbul, Türkiye
+      year: 2023
       description:
         - Description 1.
         - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/SpineS">SpineS</a>
+      year: 2012-now
+      description: Dendritic spine analysis pipeline written in Matlab
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best Presentation
+        - Turkish Neuroscience Meeeting
+    - year: 2004
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Best Poster
+        - Turkish Biophysical Association
