@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: ali.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Y55J34a HiFo</p>
     <p>Winterthurerstrasse 190</p>
