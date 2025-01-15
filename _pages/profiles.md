@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: mentors
+title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
@@ -14,29 +14,30 @@ profiles:
     content: theo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <p>University of Zürich</p>
+      <p>Postdoc Supervisor</p>
   - align: left
     image: inbal.jpg
     content: inbal.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <p>University of Washington</p>
+      <p>Ph.D. Supervisor</p>
   - align: right
     image: mujdat.jpg
     content: mujdat.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <p>Sabancı University</p>
+      <p>M.S. Supervisor</p>
   - align: left
     image: aytul.jpg
     content: aytul.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
----
+      <p>Sabancı University</p>
+      <p>M.S. Supervisor</p>
 
-layout: profiles
-permalink: /people/
 title: collaborators
 description: members of the lab or group
 nav: true
@@ -46,18 +47,30 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: devrim.jpg
+    content: devrim.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>İzmir Demecracy University</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: ertunc.jpg
+    content: ertunc.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>ETH Zürich</p>
+  - align: left
+    image: alessio.jpg
+    content: alessio.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Universitat Magdeburg</p>
+  - align: left
+    image: chris.jpg
+    content: chris.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>UZH</p>
+
+
+
+---
