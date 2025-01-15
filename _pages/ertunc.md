@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Ertunc Erdil is a researcher specializing in machine learning, computer vision, and medical image analysis. He earned his B.S. in Mathematics and Computer Science from Ege University in 2009, followed by an M.S. in Biomedical Engineering from Bahçeşehir University in 2011. He completed his Ph.D. at Sabancı University in 2017, focusing on probabilistic and machine learning-based methods for automatic dendritic spine segmentation, classification, and tracking in two-photon microscopy images. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dr. Erdil has held positions as a Research Assistant at Bahçeşehir University and Sabancı University. Since 2017, he has been a Senior Researcher at ARM Ltd. in Loughborough, UK. His research interests include statistical machine learning, deep learning, computer vision, and biomedical information processing. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Erdil has contributed to various projects, including developing deep learning-based methods for dendritic spine detection and image captioning for the Turkish language. He has also worked on Monte Carlo Markov Chain methods for image registration. 
+
+His work has been published in several scientific journals and conferences, reflecting his contributions to the fields of machine learning and computer vision.  
