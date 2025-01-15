@@ -11,21 +11,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Champalimaud Neuroscience Programme, Lisbon, Portugal
       year: 2016
       description:
         - Biology/Neuroscience
         - Studied synaptic plasticity using naturalistic patterns of activity.
         - Developed signal and image processing pipelines to study single dendritic spine structural plasticity.
-    - title: MS
+    - title: M.S.
       institution: Sabancı University, İstanbul, Türkiye
       year: 2010
       description:
         - EECS
         - Developed signal processing and machine learning algorithms for EEG based brain computer interfaces.
         - Participated in Drive Safe project for physiological signal acquisition and processing.
-    - title: BS
+    - title: B.S.
       institution: Başkent University, Ankara, Türkiye
       year: 2004
       description:
@@ -52,8 +52,11 @@
       institution: Kadir Has University, İstanbul, Türkiye
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - title: Courses
+          contents:
+            - Introduction to Neuroscience
+            - Biopython
+            - Behavioral Biology
 
 - title: Open Source Projects
   type: time_table
