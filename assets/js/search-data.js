@@ -90,17 +90,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/photo-gallery/";
         
       },
-    },{id: "post-a-post-with-twitter",
-      
-        title: "a post with twitter",
-      
-      description: "an example of a blog post with twitter",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/twitter/";
-        
-      },
     },{id: "news-i-started-my-postoc-in-neuronal-circuit-assembly-lab-of-theofanis-karayannis-at-uzh",
           title: 'I started my postoc in Neuronal Circuit Assembly lab of Theofanis Karayannis at...',
           description: "",
