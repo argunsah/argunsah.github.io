@@ -2,64 +2,31 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I taught. 
+description: Courses I taught
 nav: true
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="cources">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+<b>Spring 2023-2024</b>
 
-{% else %}
+BIO415 Behavioral Biology
 
-<!-- Display projects without categories -->
+To introduce the scientific investigation of paradigms in behavioral biology, specifically to understand the
+neurophysiological basis of behavior, to apply these bases to a variety of circumstances that animals encounter, and to
+synthesize behavioral evolution and maintenance into the natural paradigms of biology. The neurobiological questions
+and methods used in these fields will be discussed. Research and review articles will be read and discussed throughout
+the semester to learn about recent developments and technologies.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
 
-  <!-- Generate cards for each project -->
+<b>Fall 2023-2024</b>
 
-{% if page.horizontal %}
+MBG309 Biopython
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+The main objective of this course is to teach the fundamentals of algorithm development and biological programming tools. Another important objective is to lay the foundation for the hands-on programming skills and techniques for basic computational biology methods which are fundamental to conduct scientific research. Topics covered in this course are: algorithm development, biological object oriented programming tools, importance of language as part of a computer system, classification of computer languages and introduction to algorithms, meaning of variable, type of variables and their properties, operators and commands, mathematical expressions, arrays and control structure, condition expressions and loops, functions, formatted input/output and file operations, programming applications.
+
+
+MBG409 Neuroscience
+
+A general introduction to neuroscience, physiology of the brain and neural circuitry. The nervous system cells and their features. Ion channels generating the membrane potential. Passive and active electrical properties. Synaptic transmission to neural cells and muscles. Modulation and integration of the signal. Neurotransmitters and their release. Synaptic plasticity and neuronal circuit formation.
