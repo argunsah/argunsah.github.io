@@ -5,7 +5,7 @@ title: teaching
 description: Courses I taught
 nav: true
 nav_order: 4
-display_categories: false
+display_categories: [work, fun]
 horizontal: false
 ---
 
