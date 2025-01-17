@@ -51,9 +51,23 @@ profiles:
     more_info: >
       <p>ETH Zürich</p>
       <p>Collaborator</p>
+  - align: right
+    image: lavdie.jpg
+    content: lavdie.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bahçeşehir University</p>
+      <p>Collaborator</p>
   - align: left
     image: alessio.jpg
     content: alessio.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Leibniz Institute for Neurobiology in Magdeburg</p>
+      <p>Collaborator</p>
+  - align: right
+    image: bhargavi.jpg
+    content: bhargavi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Leibniz Institute for Neurobiology in Magdeburg</p>
@@ -65,4 +79,10 @@ profiles:
     more_info: >
       <p>UZH</p>
       <p>Collaborator</p>
----
+  - align: right
+    image: giulia.jpg
+    content: giulia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>University of Mainz</p>
+      <p>Collaborator</p>---
