@@ -85,4 +85,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>University of Mainz</p>
-      <p>Collaborator</p>---
+      <p>Collaborator</p>
+---
