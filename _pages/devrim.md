@@ -1,4 +1,4 @@
-Professor Devrim Ünay is a distinguished academic in electrical and electronics engineering, currently serving as a Professor at İzmir Democracy University in Turkey.  He earned his B.S. degree in Electrical and Electronics Engineering and an M.S. in Biomedical Engineering from Boğaziçi University, followed by a Ph.D. in Applied Sciences from the Université catholique de Louvain in 2005. 
+Professor Devrim Ünay is a distinguished academic in electrical and electronics engineering, currently serving as a Professor at İzmir Democracy University in Türkiye.  He earned his B.S. degree in Electrical and Electronics Engineering and an M.S. in Biomedical Engineering from Boğaziçi University, followed by a Ph.D. in Applied Sciences from the Université catholique de Louvain in 2005. 
 
 Throughout his career, Professor Ünay has held various academic positions, including roles at Bahçeşehir University and İzmir Democracy University.  His research interests encompass medical image analysis, machine learning, and signal processing, with a focus on developing computational methods for biomedical applications.
 

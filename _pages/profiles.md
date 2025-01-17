@@ -43,22 +43,26 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>İzmir Demecracy University</p>
+      <p>Collaborator</p>
   - align: left
     image: ertunc.jpg
     content: ertunc.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>ETH Zürich</p>
+      <p>Collaborator</p>
   - align: left
     image: alessio.jpg
     content: alessio.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Universitat Magdeburg</p>
+      <p>Leibniz Institute for Neurobiology in Magdeburg</p>
+      <p>Collaborator</p>
   - align: left
     image: chris.jpg
     content: chris.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>UZH</p>
+      <p>Collaborator</p>
 ---
